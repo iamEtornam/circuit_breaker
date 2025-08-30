@@ -1,4 +1,4 @@
-name: circuit_breaker
+name: dart_circuit_breaker
 description: A Dart implementation of the Circuit Breaker pattern for fault tolerance and resilience.
 version: 0.0.1
 repository: https://github.com/iamEtornam/circuit_breaker

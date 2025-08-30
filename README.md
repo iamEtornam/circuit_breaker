@@ -40,7 +40,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  circuit_breaker: ^0.0.1
+  dart_circuit_breaker: ^0.0.1
 ```
 
 ## Usage
@@ -48,7 +48,7 @@ dependencies:
 ### Basic Usage
 
 ```dart
-import 'package:circuit_breaker/circuit_breaker.dart';
+import 'package:dart_circuit_breaker/dart_circuit_breaker.dart';
 
 // Create a circuit breaker
 final circuitBreaker = CircuitBreaker(

@@ -1,4 +1,4 @@
-import 'package:circuit_breaker/circuit_breaker.dart';
+import 'package:dart_circuit_breaker/dart_circuit_breaker.dart';
 import 'package:test/test.dart';
 
 void main() {

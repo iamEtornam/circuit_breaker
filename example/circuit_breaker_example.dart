@@ -1,5 +1,5 @@
 import 'dart:math';
-import 'package:circuit_breaker/circuit_breaker.dart';
+import 'package:dart_circuit_breaker/dart_circuit_breaker.dart';
 
 void main() async {
   print('=== Circuit Breaker Example ===\n');
